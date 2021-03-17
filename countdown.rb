@@ -4,7 +4,7 @@ countdown = n
   while countdown > 0
         puts "#{countdown} SECOND(S)!"
     countdown -= 1
-"HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
   end
 end
 
